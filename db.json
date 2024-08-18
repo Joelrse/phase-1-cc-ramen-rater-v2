@@ -1,15 +1,15 @@
 {
   "ramens": [
     {
-        "id": 1,
-        "name": "Shoyu Ramen",
-        "restaurant": "Nonono",
-        "image": "./assets/ramen/shoyu.jpg",
-        "rating": 7,
-        "comment": "Delish. Can't go wrong with a classic!"
+      "id": "1",
+      "name": "Shoyu Ramen",
+      "restaurant": "Nonono",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": 7,
+      "comment": "Delish. Can't go wrong with a classic!"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
@@ -17,7 +17,7 @@
       "comment": "My absolute fave!"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Nirvana Shiromaru",
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
@@ -25,7 +25,7 @@
       "comment": "Do buy the hype."
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Gyukotsu Ramen",
       "restaurant": "Za-Ya Ramen",
       "image": "./assets/ramen/gyukotsu.jpg",
@@ -33,12 +33,28 @@
       "comment": "Good to the last drop."
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "id": "f3c6",
+      "name": "a",
+      "restaurant": "a",
+      "image": "",
+      "rating": "2",
+      "comment": null
+    },
+    {
+      "id": "5bde",
+      "name": "Tonkatsu Ramen",
+      "restaurant": "Joel's Kitchen",
+      "image": "https://www.google.com/search?sca_esv=4d8d0b367783d084&rlz=1C1ONGR_enUS976US976&sxsrf=ADLYWIJ2Qv8CBmwicPDJTBcJ15-vdnvX9A:1724010714667&q=ramen&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J03RPjGV0MznOJ6Likin94oP98_3DIGuLD8xrOA6pey33dkVvra8zG80HmTut04K_A4dFr9OHIWWp2R9yhJAUMCJfm5-LXbz0G0-PpT4MmZSF_dXgfR8-s5AGfmDXsrH0U4bDdI9fYC5fJ2P2d11ZB4CquNqdcz64AYYutCk37iCk4gCBw&sa=X&ved=2ahUKEwiijPKxqP-HAxVLSTABHSRNDJwQtKgLegQIExAB&biw=1920&bih=911&dpr=1#vhid=KbhS2KPz_ownHM&vssid=mosaic",
+      "rating": "10",
+      "comment": null
     }
   ]
 }
